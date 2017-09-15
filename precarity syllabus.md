@@ -44,12 +44,15 @@ Lucht, Hans. Darkness before Daybreak: African Migrants Living on the Margins in
 ### 18th September: The precarious classes  
 
 Standing, Guy. The Precariat: The New Dangerous Class.  London: Bloomsbury Academic, 2011.  
-  
-Murgia, Annalisa. "Representations of Precarity in Italy." Journal of Cultural Economy 7, no. 1 (2014): 48-63.  
 
 ### 19th September: Precarious representation  
 
+Comaroff, Jean, and John Comaroff. "Alien-Nation: Zombies, Immigrants, and Millennial Capitalism." South Atlantic Quarterly 101, no. 4 (2002): 789-805.
+
+See also: 
 Millar, Kathleen. "Toward a Critical Politics of Precarity." Sociology Compass 11, no. 6 (2017): e12483.  
+
+Murgia, Annalisa. "Representations of Precarity in Italy." Journal of Cultural Economy 7, no. 1 (2014): 48-63.  
   
 Neilson, Brett, and Ned Rossiter. "Precarity as a Political Concept, or, Fordism as Exception." Theory, Culture and Society 25, no. 7-8 (2008): 51-72.  
 
