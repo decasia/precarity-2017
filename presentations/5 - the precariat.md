@@ -20,6 +20,10 @@ A feature of the EuroMayDay demonstrations has been their carnival atmosphere, w
 
 ---
 
+*Or is it boring to protest?*
+
+---
+
 # Heroes or villains?
 
 There was a creative tension between the precariat as victims, penalised and demonised by mainstream institutions and policies, and the precariat as heroes, rejecting those institutions in a concerted act of intellectual and emotional defiance. (2)
@@ -107,7 +111,7 @@ The composition of social income can be broken into six elements. The first is s
 [.autoscale: true]
 
 
-# Varities of precariat
+# Varieties of precariat
 
 The precariat is far from being homogeneous. The teenager who flits in and out of the internet café while surviving on fleeting jobs is not the same as the migrant who uses his wits to survive, networking feverishly while worrying about the police. Neither is similar to the single mother fretting where the money for next week’s food bill is coming from or the man in his 60s who takes casual jobs to help pay medical bills. But they all share a sense that their labour is instrumental (to live), opportunistic (taking what comes) and precarious (insecure). (13-14)
 
