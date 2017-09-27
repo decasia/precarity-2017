@@ -9,6 +9,19 @@ autoscale: true
 
 ---
 
+# What epoch are we in?
+
+---
+
+# What epoch are we in?
+
+- Modern
+- Post-Apartheid
+- Precarious
+- Anthropocene
+
+---
+
 > Imagine “first nature” to mean ecological relations (including humans) and “second nature” to refer to capitalist transformations of the environment. This usage—not the same as more popular versions—derives from William Cronon’s Nature’s Metropolis. My book then offers “third nature,” that is, what manages to live despite capitalism. To even notice third nature, we must evade assumptions that the future is that singular direction ahead. Like virtual particles in a quantum field, multiple futures pop in and out of possibility; third nature emerges within such temporal polyphony. (viii)
 
 ---
@@ -20,10 +33,6 @@ autoscale: true
 ## Defining precarity
 
 # Precarity, that is, life without the promise of stability. (2)
-
----
-
-## Center or the exception?
 
 ---
 
@@ -40,16 +49,3 @@ autoscale: true
 ---
 
 ## List two promises of stability that someone (or something) has made to you.
-
----
-
-## How do we make a concept, again?
-
----
-
-# Thinking about concepts
-
-- What makes a good concept?
-- What are the limits of a concept?
-- How does a concept focus us, and how does it blur our vision?
-
