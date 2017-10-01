@@ -1,5 +1,7 @@
 # Precarity Reading Schedule #  
 
+[Eli Thorkelson](http://decasia.org/)
+
 Course Outline: Social Anthropology 344  
 Theories & Debates in Social Anthropology  
 2017  
